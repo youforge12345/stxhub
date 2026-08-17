@@ -1,0 +1,12 @@
+{
+  "name": "sindhi-trader-x-hub",
+  "version": "1.0.0",
+  "description": "Sindhi Trader X — Social Media Hub (single-page site, built with a minified production output)",
+  "private": true,
+  "scripts": {
+    "build": "node build.js"
+  },
+  "devDependencies": {
+    "html-minifier-terser": "^7.2.0"
+  }
+}
